@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.com/johnjohnlin/nicotb.svg?branch=master)](https://travis-ci.com/johnjohnlin/nicotb.svg?branch=master)
+This repo is forked from the development repo of [Nicotb](https://github.com/johnjohnlin/nicotb).
+We will constantly update from it.
 
 # Introduction
 
